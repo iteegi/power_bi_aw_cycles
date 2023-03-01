@@ -8,13 +8,13 @@
 
 ## DATA VISUALIZATION
 #### 1. Entity relationship diagram model
-![Entity relationship diagram model](https://github.com/iteegi/power_bi_aw_cycles/blob/master/screenshots/model relations.png
+![Entity relationship diagram model](https://github.com/iteegi/power_bi_aw_cycles/blob/master/screenshots/model relations.png)
 
 #### 2. Main dashboard
-![Main dashboard](https://github.com/iteegi/power_bi_aw_cycles/blob/master/screenshots/main.png
+![Main dashboard](https://github.com/iteegi/power_bi_aw_cycles/blob/master/screenshots/main.png)
 
 #### 3. Product details dashboard
-![Product details dashboard](https://github.com/iteegi/power_bi_aw_cycles/blob/master/screenshots/product detail.png
+![Product details dashboard](https://github.com/iteegi/power_bi_aw_cycles/blob/master/screenshots/product detail.png)
 
 #### 4. Customers details dashboard
-![Customers details dashboard](https://github.com/iteegi/power_bi_aw_cycles/blob/master/screenshots/customers detail.png
+![Customers details dashboard](https://github.com/iteegi/power_bi_aw_cycles/blob/master/screenshots/customers detail.png)
